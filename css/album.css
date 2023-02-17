@@ -1,0 +1,16 @@
+body {
+    background-color: #191918;
+    color: white;
+}
+.card {
+    background-color: #191918;
+    border: 1px dotted white;
+    border-radius: 10px; 
+    padding: 10px;
+}
+.list-group-item {
+    background-color: #191918;
+}
+.list-group-item:hover {
+    background-color: rgb(37, 37, 37);
+}

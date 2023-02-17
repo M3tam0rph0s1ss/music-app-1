@@ -1,0 +1,26 @@
+
+body {
+    background-color: #191918;
+    color: white;
+}
+.card {
+    background-color: #191918;
+    border: 1px dotted white;
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+}
+.card-text {
+    font-size: 16px;
+    font-weight: 500;
+    
+    
+}
+.card:hover {
+    outline: 4px solid rgb(235, 206, 81);
+   
+}
+.container-fluid {
+    display: flex;
+    justify-content: center;
+}
